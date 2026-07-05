@@ -1,0 +1,5 @@
+{
+  "name": "Legacy Code Modernization Engine",
+  "description": "A developer tool that ingests legacy code repositories and suggests modern Python/Go equivalents using Context Optimization.",
+  "requestFramePermissions": []
+}
